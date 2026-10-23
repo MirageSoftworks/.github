@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mirage Softworks</title>
+  <desc id="desc">A dark violet geometric banner for Mirage Softworks, with layered angular forms and the tagline Tools for Roblox creators.</desc>
+  <defs>
+    <linearGradient id="backdrop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111018"/>
+      <stop offset="0.58" stop-color="#1a1624"/>
+      <stop offset="1" stop-color="#100f17"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c2a8ff"/>
+      <stop offset="0.52" stop-color="#8b62e8"/>
+      <stop offset="1" stop-color="#52349f"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a884ff" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#a884ff" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#a884ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c7b6ef" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#backdrop)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <path d="M710-55 1007-55 1255 193 1128 320 1000 320 1143 177Z" fill="#6547a8" fill-opacity=".13"/>
+  <path d="m829-30 170 0 231 231-86 86-231-231Z" fill="#9874e2" fill-opacity=".09"/>
+  <path d="m862 320 243-243 51 51-192 192Z" fill="url(#violet)" fill-opacity=".5"/>
+  <path d="M790 281 1050 21" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M1057 292 1185 164" stroke="#c1aaff" stroke-opacity=".28" stroke-width="1"/>
+  <g fill="none" stroke="#c4afff" stroke-opacity=".4">
+    <circle cx="1042" cy="160" r="92" stroke-dasharray="2 9"/>
+    <circle cx="1042" cy="160" r="111" stroke-opacity=".16"/>
+  </g>
+  <path d="M83 72h38" stroke="#a98af5" stroke-width="2"/>
+  <text x="83" y="105" fill="#c8b8ef" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="4">ROBLOX DEVELOPER TOOLS</text>
+  <text x="79" y="181" fill="#f5f1ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="1.5">MIRAGE</text>
+  <text x="84" y="214" fill="#b79bea" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="5">SOFTWORKS</text>
+  <path d="M84 239h342" stroke="#8d70c6" stroke-opacity=".5"/>
+  <text x="84" y="274" fill="#d1cadc" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".3">Tools for Roblox creators.</text>
+  <g transform="translate(1028 118)">
+    <path d="M0 0h68l34 34v68H34L0 68Z" fill="#17131f" stroke="#d0bcff" stroke-opacity=".7" stroke-width="1.5"/>
+    <path d="M18 60 45 24l27 36H53L45 49l-8 11Z" fill="url(#violet)"/>
+    <circle cx="80" cy="18" r="3" fill="#cbb8ff"/>
+  </g>
+</svg>
